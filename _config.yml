@@ -1,1 +1,13 @@
-baseurl: /
+permalink: /:year/:month/:day/:title.html
+paginate: 10
+markdown: redcarpet
+
+# 作者信息
+author: 
+  name: bottle
+  email: 380094758@qq.com
+
+# 站点信息
+title: 瓶子的博客
+description: My personal blog
+url: http://lbottle.github.io
