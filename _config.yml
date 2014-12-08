@@ -13,8 +13,8 @@ description: My personal blog
 url: /
 
 # gavatar头像及Favicon
-gavatar: /public/img/icon.png
-favicon: /public/img/icon.png
+gavatar: /public/img/icon.jpg
+favicon: /public/img/icon.jpg
 
 # 主题设置，自动激活某个标签
 active: 读书
